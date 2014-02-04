@@ -1,0 +1,26 @@
+Chapter 2 The basics
+
+
+1.Alan Turing "On computable numbers,with an application to the Entscheidengsproblem"
+
+2.Turing machine, finite state machine
+
+3.an algorithm is a procedure
+
+4.The machine - no access to any form of concurrent execution;
+				standard, basic operations all take constant amounts of time;
+				one computer word is not unlimited but is big enough to address all the memory locations used to represent our problem, plus an extra percentage for our variables.
+
+5.a problem is a relation between input and output.
+
+6.Python list is implemented as a single,contiguous slab of memory
+
+7.Asymptotic notation 's core idea is to represent the resource we're analyzing as a function of the input size.
+
+8. big oh(g) is the set of functions that are faster than g
+   omega(g) is the set of functions that are slower than g
+   theta(g) is the set of functions that have the same asymptotic growth with g.
+
+9. an algorithm with polynomial running time is considered feasible while an exponential one is useless.   
+
+10. theta rules
